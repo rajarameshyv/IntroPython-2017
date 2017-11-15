@@ -6,7 +6,7 @@ Beausoleil, Larry: python, powershell
 Briggs, Matthew D: c#, javascript, python, typescript
 Chao, Po-Sung: c++, java
 Chudasma, Amitkumar: Amit shell, python
-Dehghani, Ali: 
+Dehghani, Ali: Nothing
 Egan, Kathryn: python, java
 Eng, Zandra: new
 Estrada, Marlon M: java, python, ruby
